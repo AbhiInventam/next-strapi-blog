@@ -1,0 +1,1 @@
+export const BackBtnImg = '/assets/backbtn.png';
